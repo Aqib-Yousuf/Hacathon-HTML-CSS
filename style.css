@@ -1,0 +1,48 @@
+.nav-item{
+    margin-left: 70px
+}
+
+.display-1{
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(71, 71, 209);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para1{
+    color: black;
+    margin-top: 12px;
+    
+    font-size: 20px;
+}
+.btn-1{
+    color:white;
+    background-color: blueviolet;
+    border-radius: 14px;
+    width: 120px;
+}
+.display-4{
+    color: blueviolet;
+    font-weight: 600;
+}
+.btn-2{
+    color:blue;
+    background-color:transparent;
+    border-radius: 14px;
+    border: 0.5px solid rgb(150, 124, 175);
+    padding: 5px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+span{
+    color: blueviolet;
+    font-weight: 700;
+}
+.para2{
+    text-align: center;
+    font-weight:500;
+}
+/* .card-body{
+    border: 2px solid blueviolet;
+    border-radius: 8px;
+    
+} */
